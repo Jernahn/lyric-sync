@@ -1,0 +1,11 @@
+:root {
+  --color-primary: #1db954;
+  --color-secondary: #191414;
+  --color-accent: #1ed760;
+}
+
+.app {
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
